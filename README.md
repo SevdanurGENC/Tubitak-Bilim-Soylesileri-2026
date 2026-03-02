@@ -41,5 +41,8 @@ Lise ve dengi okul öğrencileri
 ## 📬 İletişim
 Konuşmacı: Sevdanur Genç
 
+<img width="1086" height="614" alt="image" src="https://github.com/user-attachments/assets/16dc3574-58d5-41bb-95e4-124dc4840eb6" />
+
+
 ---
 *Bu proje TÜBİTAK Bilim ve Toplum Başkanlığı desteği ile yürütülmektedir.*
