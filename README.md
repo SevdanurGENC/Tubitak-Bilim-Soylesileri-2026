@@ -17,10 +17,10 @@ TÜBİTAK Bilim Söyleşileri 2026 kapsamında, lise ve dengi okul öğrencileri
 | Tarih | Kurum | İl/İlçe | Etkinlik Durumu |
 |-------|--------|---------|-----------------|
 | 13 Mart 2026 | Hacı Sevim Yıldız-2 Mesleki ve Teknik Anadolu Lisesi | Bursa - İnegöl | ✅ Tamamlandı |
-| 16 Nisan 2026 | Çanakkale Bayramiç İlçe Milli Eğitim Müdürlüğü | Çanakkale - Bayramiç | ⏯️ Tamamlandı |
-| 8 Mayıs 2026 | Şehit Fazıl Yıldırım Anadolu Lisesi | Eskişehir - Odunpazarı | ⏯️ Tamamlandı |
-| 14 Mayıs 2026 | Yalova Güzel Sanatlar Lisesi | Yalova - Merkez | ⏯️ Tamamlandı |
-| 15 Mayıs 2026 | Mustafa Şeker Anadolu Lisesi | Bilecik - Bozüyük | ⏯️ Tamamlandı |
+| 16 Nisan 2026 | Çanakkale Bayramiç İlçe Milli Eğitim Müdürlüğü | Çanakkale - Bayramiç | ✅ Tamamlandı |
+| 8 Mayıs 2026 | Şehit Fazıl Yıldırım Anadolu Lisesi | Eskişehir - Odunpazarı | ✅ Tamamlandı |
+| 14 Mayıs 2026 | Yalova Güzel Sanatlar Lisesi | Yalova - Merkez | ✅ Tamamlandı |
+| 15 Mayıs 2026 | Mustafa Şeker Anadolu Lisesi | Bilecik - Bozüyük | ✅ Tamamlandı |
 
 ## 📚 Seminer İçeriği
 
